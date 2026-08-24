@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-Frontend Software Engineer
+Frontend Software Engineer |
+
 I build production web applications with a focus on thoughtful UX, accessibility, and maintainable frontend architecture.
 Currently: Nuxt · Vue · TypeScript · React  
+
 Most of my professional work is in private enterprise repositories, so this profile focuses on personal projects and experiments around outdoor technology, mapping, and modern frontend development.
 Portfolio: chadptrsn.com
 
