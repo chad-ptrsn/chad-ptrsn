@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Frontend Software Engineer |
+Frontend Software Engineer
 
 I build production web applications with a focus on thoughtful UX, accessibility, and maintainable frontend architecture.
 Currently: Nuxt · Vue · TypeScript · React  
